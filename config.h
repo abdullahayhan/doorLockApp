@@ -1,5 +1,5 @@
-#define IO_USERNAME  "ayhan14"
-#define IO_KEY       "aio_MCMT529PITWlc2ekT7HTdPYFJTwS"
+#define IO_USERNAME  "your_username"
+#define IO_KEY       "your_adafruit_key"
 #define WIFI_SSID "Ayhan"
 #define WIFI_PASS "ayhan2552"
 #include "AdafruitIO_WiFi.h"
